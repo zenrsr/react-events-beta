@@ -1,0 +1,47 @@
+.re-container {
+  margin: 2%;
+  align-self: flex-start;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 96%;
+}
+.desc {
+  text-align: center;
+  color: #64748b;
+  font-size: 20px;
+}
+.view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  width: 90%;
+  text-align: center;
+}
+.yet {
+  width: 80%;
+  height: 20%;
+}
+.nope {
+  width: 80%;
+  height: 20%;
+}
+.registered {
+  width: 80%;
+  height: 20%;
+}
+.primary-btn {
+  color: #ffffff;
+  background-color: cornflowerblue;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  padding: 1%;
+  width: 55%;
+  height: 35px;
+  cursor: pointer;
+}
